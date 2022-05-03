@@ -1,28 +1,28 @@
 </p>
 
 <p align="center">
-  <img src="https://telegra.ph/file/3996f33bcfdada41a93a9.jpg">
+  <img src="https://telegra.ph/file/81858c3a4428f97fec321.jpg">
 </p>
 
 <h1 align="center">
-  <b>ALBERT - ROBOT</b>
+  <b>CIO - ROBOT</b>
 </h1>
 
 <b>A stable pluggable Telegram userbot + Voice & Video Call music bot, based on Telethon.</b>
 
-[![](https://img.shields.io/badge/ALBERT-ROBOT-v0.5-blue)](#)
-[![Stars](https://img.shields.io/github/stars/Lordtrek/ALBERT-ROBOT?style=flat-square&color=yellow)](https://github.com/Lordtrek/ALBERT-ROBOT/stargazers)
-[![Forks](https://img.shields.io/github/forks/Lordtrek/ALBERT-ROBOT?style=flat-square&color=orange)](https://github.com/TeamUltroid/ALBERT-ROBOT/fork)
-[![Size](https://img.shields.io/github/repo-size/Lordtrek/ALBERT-ROBOT?style=flat-square&color=green)](https://github.com/Lordtrek/ALBERT-ROBOT/)   
+[![](https://img.shields.io/badge/CIO-ROBOT-v0.5-blue)](#)
+[![Stars](https://img.shields.io/github/stars/cioyourfvboynih/CIO-ROBOT?style=flat-square&color=yellow)](https://github.com/cioyourfvboynih/CIO-ROBOT/stargazers)
+[![Forks](https://img.shields.io/github/forks/cioyourfvboynih/CIO-ROBOT?style=flat-square&color=orange)](https://github.com/TeamUltroid/CIO-ROBOT/fork)
+[![Size](https://img.shields.io/github/repo-size/cioyourfvboynih/CIO-ROBOT?style=flat-square&color=green)](https://github.com/cioyourfvboynih/CIO-ROBOT/)   
 [![Python](https://img.shields.io/badge/Python-v3.10.2-blue)](https://www.python.org/)
-[![CodeFactor](https://www.codefactor.io/repository/github/Lordtrek/ALBERT-ROBOT/badge/main)](https://www.codefactor.io/repository/github/teamultroid/ALBERT-ROBOT/overview/main)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Lordtrek/ALBERT-ROBOT/graphs/commit-activity)
-[![Docker Pulls](https://img.shields.io/docker/pulls/theteamultroid/ultroid?style=flat-square)](https://img.shields.io/docker/pulls/theteamultroid/ALBERT-ROBOT?style=flat-square)   
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Lordtrek/ALBERT-ROBOT)
-[![Contributors](https://img.shields.io/github/contributors/Lordtrek/ALBERT-ROBOT?style=flat-square&color=green)](https://github.com/Lordtrek/ALBERT-ROBOT/graphs/contributors)
+[![CodeFactor](https://www.codefactor.io/repository/github/cioyourfvboynih/CIO-ROBOT/badge/main)](https://www.codefactor.io/repository/github/teamultroid/ALBERT-ROBOT/overview/main)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/cioyourfvboynih/CIO-ROBOT/graphs/commit-activity)
+[![Docker Pulls](https://img.shields.io/docker/pulls/theteamultroid/ultroid?style=flat-square)](https://img.shields.io/docker/pulls/theteamultroid/CIO-ROBOT?style=flat-square)   
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/cioyourfvboynih/CIO-ROBOT)
+[![Contributors](https://img.shields.io/github/contributors/cioyourfvboynih/CIO-ROBOT?style=flat-square&color=green)](https://github.com/cioyourfvboynih/CIO-ROBOT/graphs/contributors)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/Lordtrek/ALBERT-ROBOT/blob/main/LICENSE)   
-[![Sparkline](https://stars.medv.io/Lordtrek/ALBERT-ROBOT.svg)](https://stars.medv.io/Lordtrek/ALBERT-ROBOT)
+[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/cioyourfvboynih/CIO-ROBOT/blob/main/LICENSE)   
+[![Sparkline](https://stars.medv.io/Lordtrek/ALBERT-ROBOT.svg)](https://stars.medv.io/cioyourfvboynih/CIO-ROBOT)
 ----
 
 # Deploy
@@ -46,7 +46,7 @@
 
 ## <p align="center">DEPLOY TO HEROKU</p>
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Lordtrek/ALBERT-ROBOT">
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/cioyourfvboynih/CIO-ROBOT">
   <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-aqua?style=flat&logo=heroku" width="325" height="50.100" /></a></p>
 
 
