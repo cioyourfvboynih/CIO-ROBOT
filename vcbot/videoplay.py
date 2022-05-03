@@ -1,7 +1,7 @@
-# ALBERT - ROBOT
-# Copyright (C) 2021-2022 https://github.com/Lordtrek/ALBERT-ROBOT/https://github.com/Lordtrek/ALBERT-ROBOT/ >
+# CIO - ROBOT
+# Copyright (C) 2021-2022 https://github.com/cioyourfvboynih/CIO-ROBOT/https://github.com/cioyourfvboynih/CIO-ROBOT/ >
 # PLease read the GNU Affero General Public License in
-# <https://www.github.com/Lordtrek/ALBERT-ROBOT/blob/main/LICENSE/>.
+# <https://www.github.com/cioyourfvboynih/CIO-ROBOT/blob/main/LICENSE/>.
 
 """
 ✘ Commands Available
