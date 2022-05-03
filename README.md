@@ -38,6 +38,11 @@
 - Tutorial to get Redis URL and password - [here.](./resources/extras/redistut.md)
 ---
 
+## sᴛʀɪɴɢ sᴇssɪᴏɴ :
+[![GenerateStringName](https://img.shields.io/badge/repl.it-generateStringName-white)]( https://replit.com/@Lordtrek/UltroidStringSession-1 )
+
+
+
 
 ## <p align="center">DEPLOY TO HEROKU</p>
 
@@ -111,13 +116,7 @@ One of the following database:
 - For **SQLDB**
   - `DATABASE_URL`- Get it from [elephantsql](https://elephantsql.com).
 
-## Session String
-Different ways to get your `SESSION`:
-* [![Run on Repl.it](https://replit.com/badge/github/TeamUltroid/Ultroid)](https://replit.com/@TeamUltroid/UltroidStringSession)
-* Linux : `wget -O session.py https://git.io/JY9JI && python3 session.py`
-* PowerShell : `cd desktop ; wget https://git.io/JY9JI ; python ultroid.py`
-* Termux : `wget -O session.py https://git.io/JY9JI && python session.py`
-* TelegramBot : [@SessionGeneratorBot](https://t.me/SessionGeneratorBot)
+
 
 ---
 
