@@ -1,4 +1,4 @@
-# Ultroid - UserBot
+# ALBERT - ROBOT
 # Copyright (C) 2021-2022 TeamUltroid
 #
 # This file is a part of < https://github.com/Lordtrek/ALBERT-ROBOT/ >
