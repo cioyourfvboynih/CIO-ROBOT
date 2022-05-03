@@ -1,9 +1,7 @@
-# Ultroid - UserBot
-# Copyright (C) 2021-2022 TeamUltroid
-#
-# This file is a part of < https://github.com/TeamUltroid/Ultroid/ >
+# ALBERT - ROBOT
+# Copyright (C) 2021-2022 https://github.com/Lordtrek/ALBERT-ROBOT/https://github.com/Lordtrek/ALBERT-ROBOT/ >
 # PLease read the GNU Affero General Public License in
-# <https://www.github.com/TeamUltroid/Ultroid/blob/main/LICENSE/>.
+# <https://www.github.com/Lordtrek/ALBERT-ROBOT/blob/main/LICENSE/>.
 
 """
 ✘ Commands Available -
