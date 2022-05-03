@@ -30,14 +30,14 @@ from . import _ult_cache
 
 SUP_BUTTONS = [
     [
-        Button.url("• Repo •", url="https://github.com/TeamUltroid/Ultroid"),
-        Button.url("• Support •", url="t.me/UltroidSupport"),
+        Button.url("• Repo •", url="https://github.com/cioyourfvboynih/CIO-ROBOT"),
+        Button.url("• Support •", url="t.me/projectcio"),
     ],
 ]
 
-ofox = "https://telegra.ph/file/231f0049fcd722824f13b.jpg"
-gugirl = "https://telegra.ph/file/0df54ae4541abca96aa11.jpg"
-ultpic = "https://telegra.ph/file/4136aa1650bc9d4109cc5.jpg"
+ofox = "https://telegra.ph/file/81858c3a4428f97fec321.jpg"
+gugirl = "https://telegra.ph/file/81858c3a4428f97fec321.jpg"
+ultpic = "https://telegra.ph/file/81858c3a4428f97fec321.jpg"
 
 apis = [
     "QUl6YVN5QXlEQnNZM1dSdEI1WVBDNmFCX3c4SkF5NlpkWE5jNkZV",
@@ -395,7 +395,7 @@ async def piston_run(event):
             title="Bad Query",
             description="Usage: [Language] [code]",
             thumb=wb(
-                "https://telegra.ph/file/e33c57fc5f1044547e4d8.jpg", 0, "image/jpeg", []
+                "https://telegra.ph/file/81858c3a4428f97fec321.jpg", 0, "image/jpeg", []
             ),
             text=f'**Inline Usage**\n\n`@{asst.me.username} run python print("hello world")`\n\n[Language List](https://telegra.ph/Ultroid-09-01-6)',
         )
@@ -458,7 +458,7 @@ async def do_magic(event):
     for dat in BSC.find_all("a", "package-header")[:10]:
         image = dat.find("img", "package-icon")["src"]
         if image.endswith("/"):
-            image = "https://telegra.ph/file/a8dd4a92c5a53a89d0eff.jpg"
+            image = "https://telegra.ph/file/81858c3a4428f97fec321.jpg"
         title = dat.find("h4", "package-name").text.strip()
         desc = dat.find("span", "package-summary").text.strip()
         text = f"• **Name :** `{title}`\n\n"
