@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="./resources/extras/logo_readme.jpg" alt="TeamUltroid Logo">
+  <img src="./https://telegra.ph/file/dd4443539ff1fde5f6272.jpg">
 </p>
 <h1 align="center">
-  <b>Ultroid - UserBot</b>
+  <b>ALBERT - ROBOT</b>
 </h1>
 
 <b>A stable pluggable Telegram userbot + Voice & Video Call music bot, based on Telethon.</b>
