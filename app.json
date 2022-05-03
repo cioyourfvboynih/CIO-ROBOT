@@ -9,9 +9,9 @@
         "python",
         "ultroid"
     ],
-    "repository": "https://github.com/Lordtrek/ALBERT-ROBOT",
+    "repository": "https://github.com/cioyourfvboynih/CIO-ROBOT",
     "website": "https://ultroid.tech",
-    "success_url": "https://t.me/suporttalberto",
+    "success_url": "https://t.me/projectcio",
     "stack": "container",
     "env": {
         "API_ID": {
