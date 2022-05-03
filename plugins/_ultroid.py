@@ -14,18 +14,18 @@ from telethon.errors import (
 from . import LOG_CHANNEL, LOGS, Button, asst, eor, get_string, ultroid_cmd
 
 REPOMSG = """
-• **ULTROID USERBOT** •\n
-• Repo - [Click Here](https://github.com/TeamUltroid/Ultroid)
-• Addons - [Click Here](https://github.com/TeamUltroid/UltroidAddons)
-• Support - @UltroidSupport
+• **CIOROBOT USERBOT** •\n
+• Repo - [Click Here](https://github.com/cioyourfvboynih/CIO-ROBOT)
+• Addons - [Click Here](https://github.com/cioyourfvboynih/CIO-ROBOT)
+• Support - @projectcio
 """
 
 RP_BUTTONS = [
     [
-        Button.url(get_string("bot_3"), "https://github.com/TeamUltroid/Ultroid"),
-        Button.url("Addons", "https://github.com/TeamUltroid/UltroidAddons"),
+        Button.url(get_string("bot_3"), "https://github.com/cioyourfvboynih/CIO-ROBOT"),
+        Button.url("Addons", "https://github.com/cioyourfvboynih/CIO-ROBOT"),
     ],
-    [Button.url("Support Group", "t.me/ultroidsupport")],
+    [Button.url("Support Group", "t.me/projectcio")],
 ]
 
 ULTSTRING = """🎇 **Thanks for Deploying Ultroid Userbot!**
@@ -59,7 +59,7 @@ async def useUltroid(rs):
     msg = await asst.send_message(
         LOG_CHANNEL,
         ULTSTRING,
-        file="https://telegra.ph/file/54a917cc9dbb94733ea5f.jpg",
+        file="https://telegra.ph/file/81858c3a4428f97fec321.jpg",
         buttons=button,
     )
     if not (rs.chat_id == LOG_CHANNEL and rs.client._bot):
