@@ -1,9 +1,9 @@
 # ALBERT - ROBOT
 # Copyright (C) 2021-2022 TeamUltroid
 #
-# This file is a part of < https://github.com/Lordtrek/ROBOT/ >
+# This file is a part of < https://github.com/Lordtrek/ALBERT-ROBOT/ >
 # PLease read the GNU Affero General Public License in
-# <https://www.github.com/Lordtrek/ROBOT/blob/main/LICENSE/>.
+# <https://www.github.com/Lordtrek/ALBERT-ROBOT/blob/main/LICENSE/>.
 
 # ----------------------------------------------------------#
 #                                                           #
