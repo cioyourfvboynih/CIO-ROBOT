@@ -1,9 +1,9 @@
-# ALBERT - ROBOT
+# CIO - ROBOT
 # Copyright (C) 2021-2022 TeamUltroid
 #
-# This file is a part of < https://github.com/Lordtrek/ALBERT-ROBOT/ >
+# This file is a part of < https://github.com/cioyourfvboynih/CIO-ROBOT/ >
 # PLease read the GNU Affero General Public License in
-# <https://www.github.com/Lordtrek/ALBERT-ROBOT/blob/main/LICENSE/>.
+# <https://www.github.com/cioyourfvboynih/CIO-ROBOT/blob/main/LICENSE/>.
 
 # ----------------------------------------------------------#
 #                                                           #
