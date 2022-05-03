@@ -29,7 +29,7 @@ if Owner_info_msg is None:
 
 **Message Forwards** - {udB.get_key("PMBOT")}
 
-**Ultroid [v{ultroid_version}](https://github.com/TeamUltroid/Ultroid), powered by @TeamUltroid**
+**CIO ROBOT [v{ciorobot_version}](https://github.com/cioyourfvboynih/CIO-ROBOT), powered by @ciomusic**
 """
 
 
@@ -68,7 +68,7 @@ async def own(event):
         mention=event.sender.mention, me=inline_mention(ultroid_bot.me)
     )
     if custom_info:
-        msg += "\n\n• Powered by **@TheUltroid**"
+        msg += "\n\n• Powered by **@ciomusic**"
     await event.edit(
         msg,
         buttons=[Button.inline("Close", data="closeit")],
@@ -85,7 +85,7 @@ async def closet(lol):
 
 
 @asst_cmd(pattern="start( (.*)|$)", forwards=False, func=lambda x: not x.is_group)
-async def ultroid(event):
+async def ciorobotu(event):
     args = event.pattern_match.group(1).strip()
     if not is_added(event.sender_id) and event.sender_id not in owner_and_sudos():
         add_user(event.sender_id)
@@ -104,7 +104,7 @@ async def ultroid(event):
             )
     if event.sender_id not in SUDO_M.fullsudos:
         ok = ""
-        me = inline_mention(ultroid_bot.me)
+        me = inline_mention(ciorobot_bot.me)
         mention = inline_mention(event.sender)
         if args and args != "set":
             await get_stored_file(event, args)
