@@ -1,25 +1,28 @@
-<p align="center">
-  <img src="./https://telegra.ph/file/dd4443539ff1fde5f6272.jpg">
 </p>
+
+<p align="center">
+  <img src="https://telegra.ph/file/3996f33bcfdada41a93a9.jpg">
+</p>
+
 <h1 align="center">
   <b>ALBERT - ROBOT</b>
 </h1>
 
 <b>A stable pluggable Telegram userbot + Voice & Video Call music bot, based on Telethon.</b>
 
-[![](https://img.shields.io/badge/Ultroid-v0.5-blue)](#)
-[![Stars](https://img.shields.io/github/stars/TeamUltroid/Ultroid?style=flat-square&color=yellow)](https://github.com/TeamUltroid/Ultroid/stargazers)
-[![Forks](https://img.shields.io/github/forks/TeamUltroid/Ultroid?style=flat-square&color=orange)](https://github.com/TeamUltroid/Ultroid/fork)
-[![Size](https://img.shields.io/github/repo-size/TeamUltroid/Ultroid?style=flat-square&color=green)](https://github.com/TeamUltroid/Ultroid/)   
+[![](https://img.shields.io/badge/ALBERT-ROBOT-v0.5-blue)](#)
+[![Stars](https://img.shields.io/github/stars/Lordtrek/ALBERT-ROBOT?style=flat-square&color=yellow)](https://github.com/Lordtrek/ALBERT-ROBOT/stargazers)
+[![Forks](https://img.shields.io/github/forks/Lordtrek/ALBERT-ROBOT?style=flat-square&color=orange)](https://github.com/TeamUltroid/ALBERT-ROBOT/fork)
+[![Size](https://img.shields.io/github/repo-size/Lordtrek/ALBERT-ROBOT?style=flat-square&color=green)](https://github.com/Lordtrek/ALBERT-ROBOT/)   
 [![Python](https://img.shields.io/badge/Python-v3.10.2-blue)](https://www.python.org/)
-[![CodeFactor](https://www.codefactor.io/repository/github/teamultroid/ultroid/badge/main)](https://www.codefactor.io/repository/github/teamultroid/ultroid/overview/main)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/TeamUltroid/Ultroid/graphs/commit-activity)
-[![Docker Pulls](https://img.shields.io/docker/pulls/theteamultroid/ultroid?style=flat-square)](https://img.shields.io/docker/pulls/theteamultroid/ultroid?style=flat-square)   
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/TeamUltroid/Ultroid)
-[![Contributors](https://img.shields.io/github/contributors/TeamUltroid/Ultroid?style=flat-square&color=green)](https://github.com/TeamUltroid/Ultroid/graphs/contributors)
+[![CodeFactor](https://www.codefactor.io/repository/github/Lordtrek/ALBERT-ROBOT/badge/main)](https://www.codefactor.io/repository/github/teamultroid/ALBERT-ROBOT/overview/main)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Lordtrek/ALBERT-ROBOT/graphs/commit-activity)
+[![Docker Pulls](https://img.shields.io/docker/pulls/theteamultroid/ultroid?style=flat-square)](https://img.shields.io/docker/pulls/theteamultroid/ALBERT-ROBOT?style=flat-square)   
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Lordtrek/ALBERT-ROBOT)
+[![Contributors](https://img.shields.io/github/contributors/Lordtrek/ALBERT-ROBOT?style=flat-square&color=green)](https://github.com/Lordtrek/ALBERT-ROBOT/graphs/contributors)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/TeamUltroid/Ultroid/blob/main/LICENSE)   
-[![Sparkline](https://stars.medv.io/Teamultroid/Ultroid.svg)](https://stars.medv.io/TeamUltroid/Ultroid)
+[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/Lordtrek/ALBERT-ROBOT/blob/main/LICENSE)   
+[![Sparkline](https://stars.medv.io/Lordtrek/ALBERT-ROBOT.svg)](https://stars.medv.io/Lordtrek/ALBERT-ROBOT)
 ----
 
 # Deploy
@@ -35,8 +38,12 @@
 - Tutorial to get Redis URL and password - [here.](./resources/extras/redistut.md)
 ---
 
-## Deploy to Heroku
-Get the [Necessary Variables](#Necessary-Variables) and then click the button below!  
+
+## <p align="center">DEPLOY TO HEROKU</p>
+
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Lordtrek/deploy">
+  <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-aqua?style=flat&logo=heroku" width="325" height="50.100" /></a></p>
+
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://deploy.ultroid.tech)
 
